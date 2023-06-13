@@ -6,6 +6,7 @@ Bước 3: Enter
  
 File code:
 
+----------------------------------------------
 const button = document.querySelector('#btn-update-groupmeeting');
 if (button) {
     button.click();
@@ -44,3 +45,4 @@ setTimeout(() => {
         gradeButton.click();
     }
 }, 500);
+-----------------------------------------------------
