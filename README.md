@@ -1,5 +1,7 @@
 Bước 1: Ctrl + Shift + J
+
 Bước 2: Bỏ code vô 
+
 Bước 3: Enter
  
 File code:
